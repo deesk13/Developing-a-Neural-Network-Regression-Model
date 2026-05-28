@@ -53,9 +53,9 @@ Use the trained model to predict  for a new input value .
 
 ## PROGRAM
 
-### Name: Suruthi S
+### Name: DEVA DHARSHINI I
 
-### Register Number:212224220114
+### Register Number:212223240026
 
 ```python
 
